@@ -1,0 +1,10 @@
+Task 1:
+
+1. create a HTML page with the following requirements:
+  a. Heading as VITAL PARAMETER Analytics
+  b. Label as BP and textbox to enter BP.
+  c. Label as Date and time and a text box to enter that.
+  d. A submit button
+  e. On click of submit button, alert the BP value entered and Date and Time entered
+  
+  
